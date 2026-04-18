@@ -1,0 +1,1 @@
+# Task: Complete package.json folder structure with npm install&#10;&#10;## Steps:&#10;1. [x] Create package.json with express dependency&#10;2. [] Run `npm install` to populate node_modules and package-lock.json&#10;3. [] Verify installation&#10;4. [] Update TODO.md with completion&#10;
